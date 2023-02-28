@@ -8,6 +8,9 @@ body {
 h1 {
     color: #cf184f;
     font-weight: 900;
+    text-transform: capitalize;
+    text-decoration: overline;
+    font-style: italic;
 }
 
 h3 {
